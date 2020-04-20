@@ -5,7 +5,6 @@ import registerServiceWorker from './registerServiceWorker';
 import './index.css';
 
 ReactDOM.render(
-  <App name="cslecours"/>,
-  document.getElementById('root') as HTMLElement
+  <App name="cslecours"/>, document.getElementById('root') as HTMLElement
 );
 registerServiceWorker();

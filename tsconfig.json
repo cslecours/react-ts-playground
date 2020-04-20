@@ -10,6 +10,8 @@
     "moduleResolution": "node",
     "rootDir": "src",
     "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
     "noImplicitReturns": true,
     "noImplicitThis": true,
     "noImplicitAny": true,
